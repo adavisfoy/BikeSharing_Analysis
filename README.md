@@ -8,7 +8,7 @@ The purpose of this analysis is to provide data and visualizations to our potent
 
 The visualizations in the screenshots below can be accessed within an interactive **Tableau Public Dashboard** at the link below and will give you the ability to filter and investigate the data in greater detail. 
 
-[link to dashboard](https://public.tableau.com/views/Mod14BikeshareChallenge-Tableau/NYCCitibikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "link to dashboard")
+[link to Tableau dashboard](https://public.tableau.com/views/Mod14BikeshareChallenge-Tableau/NYCCitibikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "link to dashboard")
 
 ## Results:
 
